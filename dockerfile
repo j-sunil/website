@@ -1,4 +1,4 @@
-FROM sjjadhav/apache:latest
+FROM sjjadhav/apache
 
 RUN rm /var/www/html/index.html
 
